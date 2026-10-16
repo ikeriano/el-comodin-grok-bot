@@ -1,0 +1,117 @@
+¿Cuál es la capital de Portugal?|Lisboa|Oporto|Coímbra|Braga
+¿Cuántos días tiene un año bisiesto?|366|365|364|367
+¿Qué planeta es conocido como el planeta rojo?|Marte|Júpiter|Venus|Saturno
+¿Cuál es el río más largo de la península ibérica?|Tajo|Ebro|Duero|Guadalquivir
+¿Quién escribió «Don Quijote de la Mancha»?|Miguel de Cervantes|Lope de Vega|Francisco de Quevedo|Calderón de la Barca
+¿Cuántos lados tiene un hexágono?|Seis|Cinco|Siete|Ocho
+¿En qué ciudad está el Museo del Prado?|Madrid|Barcelona|Sevilla|Valencia
+¿Qué gas respiran las plantas para hacer la fotosíntesis?|Dióxido de carbono|Oxígeno|Nitrógeno|Helio
+¿Cuál es el océano más grande del mundo?|Pacífico|Atlántico|Índico|Ártico
+¿Cuántos minutos tiene una hora?|60|100|50|90
+¿Qué animal es el rey de la selva según el dicho popular?|El león|El tigre|El elefante|El gorila
+¿De qué color es la esmeralda?|Verde|Roja|Azul|Amarilla
+¿Cuál es la capital de Francia?|París|Lyon|Marsella|Burdeos
+¿Cuántas patas tiene una araña?|Ocho|Seis|Diez|Cuatro
+¿En qué país están las pirámides de Guiza?|Egipto|México|Perú|Sudán
+¿Qué instrumento tiene teclas blancas y negras?|El piano|La guitarra|El violín|La trompeta
+¿Cuál es el metal precioso de color amarillo?|El oro|La plata|El platino|El cobre
+¿Qué se celebra en España el 6 de enero?|Los Reyes Magos|La Navidad|El Año Nuevo|Todos los Santos
+¿Cuántos jugadores tiene un equipo de fútbol en el campo?|Once|Diez|Doce|Nueve
+¿En qué ciudad se celebran las Fallas?|Valencia|Pamplona|Sevilla|Zaragoza
+¿Cómo se llama la fiesta de Pamplona famosa por los encierros?|San Fermín|Las Fallas|La Tomatina|La Feria de Abril
+¿Qué fruta es típica de las islas Canarias con denominación protegida?|El plátano|La manzana|La pera|La cereza
+¿Cuál es el animal terrestre más grande?|El elefante africano|La jirafa|El hipopótamo|El rinoceronte
+¿Cuántos continentes se suelen contar en España?|Cinco|Cuatro|Siete|Seis
+¿Cuál es la moneda oficial de España?|El euro|La peseta|El dólar|La libra
+¿Cuál es el resultado de 7 por 8?|56|54|58|64
+¿Qué órgano bombea la sangre?|El corazón|El hígado|El pulmón|El riñón
+¿En qué estación del año caen las hojas de muchos árboles?|Otoño|Primavera|Verano|Invierno
+¿Qué idioma se habla en Brasil?|Portugués|Español|Inglés|Francés
+¿Quién pintó «Las Meninas»?|Diego Velázquez|Francisco de Goya|El Greco|Pablo Picasso
+¿Cuál es la capital de Italia?|Roma|Milán|Nápoles|Turín
+¿Cuántas horas tiene un día?|24|12|20|36
+¿Cuál es el plato típico valenciano hecho con arroz?|La paella|El cocido|El gazpacho|La fabada
+¿Qué sopa fría típica de Andalucía lleva tomate?|El gazpacho|La fabada|El caldo gallego|La escudella
+¿Cuál es el satélite natural de la Tierra?|La Luna|El Sol|Fobos|Titán
+¿Cuál es el primer mes del año?|Enero|Febrero|Marzo|Diciembre
+¿Qué color se obtiene al mezclar azul y amarillo?|Verde|Morado|Naranja|Marrón
+¿En qué deporte se usa una raqueta y una pelota amarilla sobre pista?|Tenis|Bádminton|Golf|Hockey
+¿Cuál es la capital de Alemania?|Berlín|Múnich|Fráncfort|Hamburgo
+¿Cuántos meses tiene un año?|Doce|Diez|Once|Trece
+¿Qué ave es símbolo de la paz?|La paloma|El águila|El cuervo|El búho
+¿Cuál es el punto cardinal por donde sale el sol?|Este|Oeste|Norte|Sur
+¿Qué famoso templo de Barcelona diseñó Gaudí?|La Sagrada Familia|La catedral de Burgos|El Pilar|La Almudena
+¿Qué ciudad es conocida como la Ciudad Condal?|Barcelona|Madrid|Bilbao|Granada
+¿En qué ciudad está la Alhambra?|Granada|Córdoba|Málaga|Toledo
+¿Cuál es el mamífero que puede volar?|El murciélago|La ardilla|El canguro|El pingüino
+¿Cuántos años tiene un siglo?|100|10|1.000|50
+¿Qué estudia la astronomía?|Los astros|Las rocas|Los animales|Las plantas
+¿Qué líquido es el principal componente del cuerpo humano?|El agua|La sangre|La saliva|El plasma
+¿Cuál es la lengua oficial de Austria?|Alemán|Austriaco|Francés|Húngaro
+¿Qué país tiene forma de bota?|Italia|Grecia|Chile|Portugal
+¿Cuántos grados tiene un ángulo recto?|90|180|45|60
+¿Cuál es el país más poblado de América del Sur?|Brasil|Argentina|Colombia|Perú
+¿Qué animal es famoso por su lentitud?|El perezoso|El guepardo|La liebre|El caballo
+¿Cuál es la capital de Andalucía?|Sevilla|Málaga|Granada|Córdoba
+¿De qué está hecho principalmente el vidrio?|Arena|Arcilla|Madera|Hierro
+¿Qué deportista es apodado «Rafa» y ha ganado 14 veces Roland Garros?|Rafael Nadal|Carlos Alcaraz|David Ferrer|Feliciano López
+¿En qué deporte destaca Pau Gasol?|Baloncesto|Fútbol|Tenis|Balonmano
+¿Cuál es el nombre del ratón más famoso de Disney?|Mickey|Jerry|Speedy|Pikachu
+¿Quién es el autor de «Cien años de soledad»?|Gabriel García Márquez|Mario Vargas Llosa|Julio Cortázar|Pablo Neruda
+¿Cuál es el hueso más largo del cuerpo humano?|El fémur|La tibia|El húmero|El radio
+¿Qué país ganó el Mundial de fútbol de 2010?|España|Países Bajos|Alemania|Brasil
+¿Cuál es la comunidad autónoma más extensa de España?|Castilla y León|Andalucía|Castilla-La Mancha|Aragón
+¿En qué mar se encuentran las islas Baleares?|Mediterráneo|Cantábrico|Atlántico|Mar del Norte
+¿Cuántas cuerdas tiene una guitarra española clásica?|Seis|Cuatro|Cinco|Doce
+¿Cuál es la capital de Galicia?|Santiago de Compostela|A Coruña|Vigo|Lugo
+¿Qué científico formuló la teoría de la relatividad?|Albert Einstein|Isaac Newton|Galileo Galilei|Nikola Tesla
+¿Cuál es el desierto cálido más grande del mundo?|Sahara|Gobi|Atacama|Kalahari
+¿Qué se mide con un termómetro?|La temperatura|La presión|La humedad|El peso
+¿Qué día se celebra la Nochebuena?|24 de diciembre|25 de diciembre|31 de diciembre|6 de enero
+¿Cuál es el color que resulta de mezclar rojo y blanco?|Rosa|Naranja|Morado|Granate
+¿Cuál es el nombre de la torre más famosa de París?|Torre Eiffel|Torre de Pisa|Big Ben|Torre de Belém
+¿En qué ciudad está el estadio Santiago Bernabéu?|Madrid|Barcelona|Bilbao|Sevilla
+¿Cuál es el símbolo químico del agua?|H2O|CO2|O2|NaCl
+¿Cuántas ruedas tiene un triciclo?|Tres|Dos|Cuatro|Una
+¿Qué animal produce la miel?|La abeja|La avispa|La mariposa|La hormiga
+¿Qué famoso navegante llegó a América en 1492?|Cristóbal Colón|Fernando de Magallanes|Américo Vespucio|Hernán Cortés
+¿Qué montaña es la más alta del mundo?|El Everest|El K2|El Kilimanjaro|El Aconcagua
+¿Cuál es la capital del Reino Unido?|Londres|Mánchester|Edimburgo|Liverpool
+¿Qué parte de la planta está normalmente bajo tierra?|La raíz|La hoja|La flor|El tallo
+¿Qué número romano representa el 10?|X|V|L|C
+¿Cuál es el pico más alto de España?|El Teide|El Mulhacén|El Aneto|El Veleta
+¿En qué isla está el Teide?|Tenerife|Gran Canaria|La Palma|Lanzarote
+¿Qué cantante española es conocida por «Motomami»?|Rosalía|Aitana|Lola Índigo|Ana Mena
+¿Cuántos colores tiene la bandera de España?|Dos|Tres|Uno|Cuatro
+¿Qué escritor creó a Sherlock Holmes?|Arthur Conan Doyle|Agatha Christie|Edgar Allan Poe|Charles Dickens
+¿Cuál es el animal más rápido en tierra?|El guepardo|El león|El caballo|La gacela
+¿Cuál es el resultado de 100 dividido entre 4?|25|20|40|24
+¿Qué juego de mesa tiene reyes, alfiles y peones?|El ajedrez|Las damas|El parchís|El dominó
+¿Qué estación empieza en España hacia el 21 de junio?|Verano|Primavera|Otoño|Invierno
+¿Qué país es famoso por los tulipanes y los molinos?|Países Bajos|Bélgica|Dinamarca|Suiza
+¿Qué famoso detective vive en el 221B de Baker Street?|Sherlock Holmes|Hércules Poirot|Philip Marlowe|Miss Marple
+¿Qué tipo de animal es la ballena?|Un mamífero|Un pez|Un reptil|Un anfibio
+¿En qué ciudad está la Giralda?|Sevilla|Córdoba|Cádiz|Jaén
+¿Cuál es la capital de Japón?|Tokio|Osaka|Kioto|Pekín
+¿Qué vitamina aporta especialmente el sol a nuestra piel?|Vitamina D|Vitamina C|Vitamina A|Vitamina B12
+¿Qué famosa obra de teatro escribió José Zorrilla?|Don Juan Tenorio|La vida es sueño|Bodas de sangre|Fuenteovejuna
+¿Cuál es el nombre del juguete de construcción danés con piezas de plástico?|LEGO|Playmobil|Meccano|Tente
+¿Cuántas estrellas tiene la bandera de la Unión Europea?|Doce|Quince|Veintisiete|Diez
+¿Qué deporte practica Fernando Alonso?|Fórmula 1|Motociclismo|Rally|Ciclismo
+¿Cuál es el nombre del dinero de Estados Unidos?|Dólar|Peso|Libra|Euro
+¿Qué forma geométrica tiene una señal de stop?|Octógono|Hexágono|Círculo|Triángulo
+¿Qué animal tiene trompa?|El elefante|El rinoceronte|La jirafa|El hipopótamo
+¿Qué fruta se asocia a las doce campanadas de Nochevieja en España?|La uva|La manzana|La aceituna|La fresa
+¿En qué comunidad autónoma está Bilbao?|País Vasco|Cantabria|Navarra|Asturias
+¿Cuál es el contrario de «rápido»?|Lento|Veloz|Ligero|Ágil
+¿Qué país es el más grande del mundo por superficie?|Rusia|Canadá|China|Estados Unidos
+¿Qué se celebra el 25 de diciembre?|Navidad|Nochevieja|Reyes|San Juan
+¿Quién pintó «El Guernica»?|Pablo Picasso|Salvador Dalí|Joan Miró|Joaquín Sorolla
+¿Cuál es el principal ingrediente del guacamole?|El aguacate|El tomate|La cebolla|El pimiento
+¿Cuántos centímetros tiene un metro?|100|10|1.000|50
+¿Qué instrumento musical toca un batería?|La batería|El bajo|El saxofón|El arpa
+¿Qué ave no vuela y vive en la Antártida?|El pingüino|El avestruz|El kiwi|El emú
+¿Cuál es el planeta más grande del sistema solar?|Júpiter|Saturno|Neptuno|La Tierra
+¿Qué ciudad es la capital de Cataluña?|Barcelona|Girona|Tarragona|Lleida
+¿En qué ciudad está la Puerta de Alcalá?|Madrid|Alcalá de Henares|Toledo|Segovia
+¿Qué animal es el símbolo de Australia junto con el koala?|El canguro|El panda|El bisonte|El camello

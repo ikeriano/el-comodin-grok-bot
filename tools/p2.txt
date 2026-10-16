@@ -1,0 +1,237 @@
+¿Capital de Portugal?|Lisboa|Oporto
+¿Capital de Italia?|Roma|Milán
+¿Capital de Escocia?|Edimburgo|Glasgow
+¿Capital de Irlanda?|Dublín|Belfast
+¿Capital de Austria?|Viena|Salzburgo
+¿Capital de Dinamarca?|Copenhague|Aarhus
+¿Capital de Finlandia?|Helsinki|Tampere
+¿Capital de Chequia?|Praga|Brno
+¿Capital de Croacia?|Zagreb|Split
+¿Capital de Ucrania?|Kiev|Járkov
+¿Capital de Cuba?|La Habana|Santiago de Cuba
+¿Capital de Venezuela?|Caracas|Maracaibo
+¿Capital de Ecuador?|Quito|Guayaquil
+¿Capital de Uruguay?|Montevideo|Punta del Este
+¿Capital de Paraguay?|Asunción|Ciudad del Este
+¿Capital de India?|Nueva Delhi|Bombay
+¿Capital de Corea del Sur?|Seúl|Busan
+¿Capital de Tailandia?|Bangkok|Phuket
+¿Capital de Sudáfrica sede del Gobierno?|Pretoria|Johannesburgo
+¿Capital de Nigeria?|Abuya|Lagos
+¿Capital de Cantabria?|Santander|Torrelavega
+¿Capital de Murcia?|Murcia|Cartagena
+¿Capital de las Islas Baleares?|Palma|Ibiza
+¿Capital de Castilla y León (sede de las Cortes)?|Valladolid|Burgos
+¿Capital de la Comunidad Valenciana?|Valencia|Alicante
+¿Cuántas patas tiene un insecto?|Seis|Ocho
+¿El tomate es botánicamente un fruto?|Sí|No
+¿La ballena es un pez?|No|Sí
+¿El murciélago es un mamífero?|Sí|No
+¿El delfín respira con pulmones?|Sí|No
+¿Los pingüinos viven de forma natural en el Polo Norte?|No|Sí
+¿El Sol es una estrella?|Sí|No
+¿Plutón se considera hoy un planeta enano?|Sí|No
+¿El agua hierve a 100 °C a nivel del mar?|Sí|No
+¿Cuál es más grande, un kilómetro o una milla?|Una milla|Un kilómetro
+¿Cuántos lados tiene un triángulo?|Tres|Cuatro
+¿Cuántos lados tiene un octógono?|Ocho|Seis
+¿Cuánto es 9 por 9?|81|72
+¿Cuánto es 12 por 12?|144|124
+¿Cuánto es 15 más 27?|42|43
+¿Cuánto es 100 menos 37?|63|73
+¿La mitad de 50?|25|20
+¿Cuál es el doble de 35?|70|75
+¿El número 2 es primo?|Sí|No
+¿El número 9 es primo?|No|Sí
+¿Cuántos minutos son dos horas y media?|150|130
+¿Cuántos segundos tiene un minuto?|60|100
+¿Cuántos días tiene febrero en un año no bisiesto?|28|29
+¿Cuántos días tiene una semana?|Siete|Ocho
+¿Quién pintó «La maja desnuda»?|Goya|Velázquez
+¿Quién pintó «El caballero de la mano en el pecho»?|El Greco|Murillo
+¿Quién escribió «Romeo y Julieta»?|Shakespeare|Molière
+¿Quién escribió «La Odisea»?|Homero|Virgilio
+¿Quién escribió «La Divina Comedia»?|Dante|Petrarca
+¿Quién escribió «El principito»?|Saint-Exupéry|Julio Verne
+¿Quién escribió «Veinte mil leguas de viaje submarino»?|Julio Verne|H. G. Wells
+¿Quién escribió «Hamlet»?|Shakespeare|Cervantes
+¿Quién escribió «Marianela»?|Galdós|Unamuno
+¿Quién escribió «El árbol de la ciencia»?|Pío Baroja|Azorín
+¿Quién escribió «Bodas de sangre»?|Lorca|Alberti
+¿Quién escribió «Rayuela»?|Cortázar|Borges
+¿Quién escribió «La sombra del viento»?|Carlos Ruiz Zafón|Arturo Pérez-Reverte
+¿Quién escribió «El capitán Alatriste»?|Arturo Pérez-Reverte|Javier Marías
+¿Quién escribió «Los santos inocentes»?|Miguel Delibes|Camilo José Cela
+¿Quién escribió «La colmena»?|Camilo José Cela|Miguel Delibes
+¿Quién escribió «Harry Potter»?|J. K. Rowling|J. R. R. Tolkien
+¿Quién escribió «El señor de los anillos»?|Tolkien|C. S. Lewis
+¿Quién compuso «La flauta mágica»?|Mozart|Beethoven
+¿Quién pintó «La noche estrellada»?|Van Gogh|Monet
+¿Quién pintó «El grito»?|Munch|Klimt
+¿Quién pintó «El beso» dorado de Viena?|Klimt|Schiele
+¿Quién descubrió la ley de la gravitación universal?|Newton|Galileo
+¿Quién propuso la teoría de la evolución por selección natural?|Darwin|Lamarck
+¿Quién inventó la bombilla incandescente comercial?|Edison|Tesla
+¿Quién inventó el teléfono según la patente de 1876?|Graham Bell|Marconi
+¿El oro es un metal?|Sí|No
+¿Símbolo químico del sodio?|Na|So
+¿Símbolo químico del oxígeno?|O|Ox
+¿Símbolo químico del calcio?|Ca|C
+¿Símbolo químico del helio?|He|H
+¿Símbolo químico del cobre?|Cu|Co
+¿Símbolo químico del plomo?|Pb|Pl
+¿Qué gas exhalamos al respirar en mayor proporción que el aire?|Dióxido de carbono|Hidrógeno
+¿El corazón humano tiene cuatro cavidades?|Sí|No
+¿Dónde se produce la bilis?|En el hígado|En el páncreas
+¿Qué vitamina abunda en la naranja?|Vitamina C|Vitamina K
+¿Los glóbulos rojos transportan oxígeno?|Sí|No
+¿Cuántos dientes tiene un adulto con la dentición completa?|32|28
+¿En qué país está Venecia?|Italia|Francia
+¿En qué país está Oporto?|Portugal|España
+¿En qué país está Marrakech?|Marruecos|Argelia
+¿En qué país está Cuzco?|Perú|Bolivia
+¿En qué país está Toronto?|Canadá|Estados Unidos
+¿En qué país está Sídney?|Australia|Nueva Zelanda
+¿En qué país está Kioto?|Japón|China
+¿En qué país está Dubái?|Emiratos Árabes Unidos|Catar
+¿En qué país está Salzburgo?|Austria|Alemania
+¿En qué país está Brujas?|Bélgica|Países Bajos
+¿En qué país está Cracovia?|Polonia|Hungría
+¿En qué país está Ginebra?|Suiza|Francia
+¿En qué país está Cartagena de Indias?|Colombia|Venezuela
+¿En qué provincia está Benidorm?|Alicante|Valencia
+¿En qué provincia está Marbella?|Málaga|Cádiz
+¿En qué provincia está Jerez de la Frontera?|Cádiz|Sevilla
+¿En qué provincia está Gijón?|Asturias|Cantabria
+¿En qué provincia está Vigo?|Pontevedra|A Coruña
+¿En qué provincia está Figueres?|Girona|Barcelona
+¿En qué provincia está Ponferrada?|León|Zamora
+¿En qué provincia está Talavera de la Reina?|Toledo|Ciudad Real
+¿En qué provincia está Mérida?|Badajoz|Cáceres
+¿En qué provincia está Elche?|Alicante|Murcia
+¿En qué provincia está San Sebastián?|Guipúzcoa|Vizcaya
+¿En qué provincia está Getxo?|Vizcaya|Álava
+¿La capital de Álava es Vitoria?|Sí|No
+¿Por qué ciudad pasa el río Pisuerga?|Valladolid|Salamanca
+¿Por qué ciudad pasa el río Tormes?|Salamanca|Zamora
+¿Por qué ciudad pasa el río Turia?|Valencia|Murcia
+¿Por qué ciudad pasa el río Manzanares?|Madrid|Toledo
+¿Por qué ciudad pasa el río Nervión?|Bilbao|San Sebastián
+¿Por qué ciudad pasa el río Sena?|París|Londres
+¿Por qué ciudad pasa el río Támesis?|Londres|Dublín
+¿Por qué ciudad pasa el Danubio?|Budapest|Praga
+¿Por qué ciudad pasa el río Tíber?|Roma|Florencia
+¿El Ebro desemboca en el Mediterráneo?|Sí|No
+¿El Duero desemboca en Oporto?|Sí|No
+¿El Tajo desemboca en Lisboa?|Sí|No
+¿Cuántos jugadores tiene un equipo de voleibol en pista?|Seis|Cinco
+¿Cuántos jugadores tiene un equipo de waterpolo en el agua?|Siete|Seis
+¿Cuántos sets se juegan como máximo en un partido masculino de Grand Slam?|Cinco|Tres
+¿En qué deporte se hace un «home run»?|Béisbol|Críquet
+¿En qué deporte se marca un «ensayo»?|Rugby|Fútbol americano
+¿En qué deporte se usa un «stick» y un disco sobre hielo?|Hockey sobre hielo|Curling
+¿Cuánto mide una maratón?|42,195 km|40 km
+¿En qué ciudad juega el Athletic Club?|Bilbao|San Sebastián
+¿En qué ciudad juega el Real Betis?|Sevilla|Málaga
+¿En qué ciudad juega el Celta?|Vigo|A Coruña
+¿En qué ciudad juega el Villarreal?|Villarreal|Castellón
+¿En qué ciudad está el estadio de Mestalla?|Valencia|Valladolid
+¿En qué ciudad está el Camp Nou?|Barcelona|Madrid
+¿Qué selección ha ganado más Mundiales de fútbol masculino?|Brasil|Alemania
+¿Qué tenista ha ganado más Grand Slam masculinos?|Novak Djokovic|Roger Federer
+¿De qué país es Roger Federer?|Suiza|Austria
+¿De qué país es Lionel Messi?|Argentina|Uruguay
+¿De qué país es Cristiano Ronaldo?|Portugal|Brasil
+¿Qué piloto español fue dos veces campeón de Fórmula 1?|Fernando Alonso|Carlos Sainz
+¿El color del cielo despejado de día es azul por la dispersión de la luz?|Sí|No
+¿Cuál es el color primario?|Rojo|Verde oliva
+¿Qué color resulta de mezclar rojo y amarillo?|Naranja|Verde
+¿Qué color resulta de mezclar azul y rojo?|Morado|Marrón
+¿Qué animal es más grande, el lince o el tigre?|El tigre|El lince
+¿El lince ibérico es un felino?|Sí|No
+¿El koala es un marsupial?|Sí|No
+¿La araña es un insecto?|No|Sí
+¿La rana es un anfibio?|Sí|No
+¿El cocodrilo es un reptil?|Sí|No
+¿La tortuga es un reptil?|Sí|No
+¿El tiburón es un pez?|Sí|No
+¿El caballito de mar es un pez?|Sí|No
+¿El pulpo tiene ocho brazos?|Sí|No
+¿Cuántas jorobas tiene un dromedario?|Una|Dos
+¿Cuántas jorobas tiene un camello bactriano?|Dos|Una
+¿Qué animal es el más alto del mundo?|La jirafa|El elefante
+¿El avestruz puede volar?|No|Sí
+¿Las vacas son herbívoras?|Sí|No
+¿Qué come principalmente el oso panda?|Bambú|Pescado
+¿Cómo se llama la cría de la oveja?|Cordero|Cabrito
+¿Cómo se llama la cría del cerdo?|Lechón|Potro
+¿Cómo se llama la cría de la cabra?|Cabrito|Ternero
+¿En qué año llegó Colón a América?|1492|1592
+¿En qué año empezó la Guerra Civil española?|1936|1939
+¿En qué siglo fue la Revolución francesa?|XVIII|XVII
+¿Quién fue el primer rey de la España democrática?|Juan Carlos I|Felipe VI
+¿Quién es el rey de España desde 2014?|Felipe VI|Juan Carlos I
+¿Qué emperador francés perdió en Waterloo?|Napoleón|Luis XVI
+¿Quién fue el primer hombre en pisar la Luna?|Neil Armstrong|Buzz Aldrin
+¿Quién fue el primer hombre en el espacio?|Yuri Gagarin|Neil Armstrong
+¿En qué país nació Gandhi?|India|Pakistán
+¿Qué faraón tenía una tumba famosa descubierta en 1922?|Tutankamón|Ramsés II
+¿Qué civilización construyó Chichén Itzá?|Maya|Inca
+¿Qué civilización construyó Machu Picchu?|Inca|Azteca
+¿En qué ciudad está el Coliseo?|Roma|Atenas
+¿En qué ciudad está la Acrópolis?|Atenas|Roma
+¿En qué ciudad está la Estatua de la Libertad?|Nueva York|Washington
+¿En qué ciudad está el Big Ben?|Londres|Edimburgo
+¿En qué ciudad está la Torre de Belém?|Lisboa|Oporto
+¿En qué ciudad está la Puerta de Brandeburgo?|Berlín|Viena
+¿En qué ciudad está el Taj Mahal?|Agra|Nueva Delhi
+¿En qué ciudad está el Cristo Redentor?|Río de Janeiro|São Paulo
+¿En qué ciudad está la Torre inclinada?|Pisa|Florencia
+¿En qué ciudad está la Ciudad Encantada?|Cuenca|Teruel
+¿En qué ciudad está la Plaza de España con azulejos de 1929?|Sevilla|Madrid
+¿En qué ciudad está la Catedral de Burgos?|Burgos|León
+¿En qué ciudad está la Concha?|San Sebastián|Santander
+¿En qué ciudad está el Museo Guggenheim español?|Bilbao|Barcelona
+¿En qué ciudad está la Torre de Hércules?|A Coruña|Lugo
+¿En qué ciudad está la Basílica del Pilar?|Zaragoza|Valencia
+¿En qué ciudad está el Palacio Real más grande de Europa occidental?|Madrid|París
+¿En qué ciudad está la Casa Batlló?|Barcelona|Valencia
+¿Qué idioma se habla en Austria?|Alemán|Francés
+¿Qué idioma oficial se habla en Quebec junto al inglés en Canadá?|Francés|Español
+¿Qué idioma se habla en Argentina?|Español|Portugués
+¿Qué idioma se habla en Angola?|Portugués|Francés
+¿Qué idioma se habla principalmente en Egipto?|Árabe|Turco
+¿«Haber» se escribe con hache?|Sí|No
+¿Cómo se escribe correctamente?|Hierba|Yerva
+¿Cómo se escribe correctamente?|Vaca (animal)|Baca (animal)
+¿Cómo se escribe correctamente?|Exhausto|Exausto
+¿Cómo se escribe correctamente?|Bombilla|Bonbilla
+¿Cómo se escribe correctamente?|Hacia|Hazia
+¿Cuál es el sinónimo de «alegre»?|Contento|Triste
+¿Cuál es el antónimo de «alto»?|Bajo|Grande
+¿Cuál es el antónimo de «oscuro»?|Claro|Negro
+¿«Correr» es un verbo?|Sí|No
+¿«Rápidamente» es un adverbio?|Sí|No
+¿Qué planeta tiene anillos más visibles?|Saturno|Marte
+¿Qué planeta es el más lejano del Sol?|Neptuno|Urano
+¿La Luna tiene luz propia?|No|Sí
+¿La Tierra tarda un año en dar la vuelta al Sol?|Sí|No
+¿Cuántos planetas tiene el sistema solar?|Ocho|Nueve
+¿Qué instrumento tiene 88 teclas?|Piano|Acordeón
+¿Qué instrumento es de viento?|Flauta|Violín
+¿Qué instrumento es de cuerda?|Violonchelo|Clarinete
+¿Qué instrumento es de percusión?|Tambor|Oboe
+¿Cuántas notas musicales hay en la escala básica?|Siete|Ocho
+¿De dónde es la gaita como instrumento tradicional en España?|Galicia y Asturias|Andalucía
+¿De dónde es típica la fabada?|Asturias|Galicia
+¿De dónde es típico el pulpo a feira?|Galicia|Cantabria
+¿De dónde es típica la sobrasada?|Mallorca|Murcia
+¿De dónde es típico el salmorejo?|Córdoba|Valencia
+¿De dónde es típico el cocido maragato?|León|Madrid
+¿De dónde son típicas las papas arrugadas?|Canarias|Extremadura
+¿De dónde es típica la crema catalana?|Cataluña|Aragón
+¿De dónde es típico el marmitako?|País Vasco|La Rioja
+¿El jamón ibérico procede de cerdo ibérico?|Sí|No
+¿La horchata se hace tradicionalmente con chufa?|Sí|No
+¿El turrón de Jijona es blando?|Sí|No
+¿El gazpacho se sirve frío?|Sí|No

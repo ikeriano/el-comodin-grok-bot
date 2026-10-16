@@ -1,0 +1,101 @@
+¿Cuál es el elemento químico más abundante del universo?|Hidrógeno|Helio|Oxígeno|Carbono
+¿Qué elemento químico tiene el símbolo «Au»?|Oro|Plata|Aluminio|Argón
+¿Qué elemento químico tiene el símbolo «Ag»?|Plata|Oro|Mercurio|Arsénico
+¿Qué elemento químico tiene el símbolo «K»?|Potasio|Kriptón|Calcio|Cobalto
+¿Cuál es el número atómico del carbono?|6|12|8|4
+¿En qué año comenzó la Guerra Civil española?|1936|1931|1939|1934
+¿En qué año se proclamó la Segunda República española?|1931|1923|1936|1914
+¿Qué emperador fue también rey de España como Carlos I?|Carlos V|Felipe II|Maximiliano I|Fernando I
+¿En qué batalla de 1571 participó Cervantes y perdió la movilidad de una mano?|Lepanto|Pavía|San Quintín|Trafalgar
+¿Quién fue el primer hombre en dar la vuelta al mundo, completando la expedición de Magallanes?|Juan Sebastián Elcano|Vasco da Gama|Francis Drake|Américo Vespucio
+¿Qué tratado de 1494 repartió las tierras descubiertas entre Castilla y Portugal?|Tratado de Tordesillas|Tratado de Utrecht|Paz de Westfalia|Tratado de los Pirineos
+¿Qué tratado de 1713 cedió Gibraltar al Reino Unido?|Tratado de Utrecht|Tratado de Tordesillas|Tratado de Versalles|Paz de Basilea
+¿En qué año se produjo la Revolución francesa?|1789|1776|1812|1848
+¿En qué año comenzó la Primera Guerra Mundial?|1914|1918|1939|1905
+¿En qué año terminó la Segunda Guerra Mundial?|1945|1944|1946|1939
+¿Qué escritor argentino escribió «El Aleph»?|Jorge Luis Borges|Julio Cortázar|Ernesto Sabato|Adolfo Bioy Casares
+¿Qué escritor peruano ganó el Nobel de Literatura en 2010?|Mario Vargas Llosa|Gabriel García Márquez|Octavio Paz|Pablo Neruda
+¿Qué poetisa chilena fue la primera latinoamericana en ganar el Nobel de Literatura?|Gabriela Mistral|Isabel Allende|Alfonsina Storni|Juana de Ibarbourou
+¿Quién escribió «La Regenta»?|Leopoldo Alas Clarín|Benito Pérez Galdós|Emilia Pardo Bazán|Juan Valera
+¿Quién escribió «Fortunata y Jacinta»?|Benito Pérez Galdós|Pío Baroja|Miguel de Unamuno|Vicente Blasco Ibáñez
+¿Quién escribió «Niebla»?|Miguel de Unamuno|Ramón del Valle-Inclán|Azorín|Pío Baroja
+¿Quién escribió «Luces de bohemia»?|Ramón del Valle-Inclán|Federico García Lorca|Jacinto Benavente|Alejandro Casona
+¿Quién escribió «La vida es sueño»?|Calderón de la Barca|Lope de Vega|Tirso de Molina|Fernando de Rojas
+¿Quién escribió «Fuenteovejuna»?|Lope de Vega|Calderón de la Barca|Tirso de Molina|Miguel de Cervantes
+¿Quién escribió «Campos de Castilla»?|Antonio Machado|Manuel Machado|Juan Ramón Jiménez|Jorge Guillén
+¿Qué autor escribió «El nombre de la rosa»?|Umberto Eco|Italo Calvino|Dante Alighieri|Alessandro Manzoni
+¿Qué autor escribió «1984»?|George Orwell|Aldous Huxley|Ray Bradbury|H. G. Wells
+¿Quién escribió «Orgullo y prejuicio»?|Jane Austen|Charlotte Brontë|Emily Brontë|Virginia Woolf
+¿Quién compuso «Las cuatro estaciones»?|Antonio Vivaldi|Johann Sebastian Bach|Georg Friedrich Händel|Joseph Haydn
+¿Qué compositor español escribió el «Concierto de Aranjuez»?|Joaquín Rodrigo|Manuel de Falla|Isaac Albéniz|Enrique Granados
+¿Quién compuso «El amor brujo»?|Manuel de Falla|Joaquín Rodrigo|Isaac Albéniz|Joaquín Turina
+¿Qué ópera compuso Georges Bizet ambientada en Sevilla?|Carmen|Aida|La traviata|Tosca
+¿Qué planeta tiene el día más largo, más que su propio año?|Venus|Mercurio|Marte|Neptuno
+¿Qué planeta tiene la luna más grande del sistema solar, Ganímedes?|Júpiter|Saturno|Urano|Neptuno
+¿Cuál es la luna más grande de Saturno?|Titán|Europa|Ío|Tritón
+¿Qué unidad mide la intensidad de la corriente eléctrica?|El amperio|El voltio|El ohmio|El vatio
+¿Qué unidad mide la resistencia eléctrica?|El ohmio|El amperio|El julio|El hercio
+¿Qué científica ganó dos premios Nobel en Física y Química?|Marie Curie|Rosalind Franklin|Lise Meitner|Ada Lovelace
+¿Qué científico español ganó el Nobel de Medicina en 1906?|Santiago Ramón y Cajal|Severo Ochoa|Gregorio Marañón|Isaac Peral
+¿Qué inventor español diseñó un submarino propulsado por electricidad en 1888?|Isaac Peral|Narciso Monturiol|Juan de la Cierva|Leonardo Torres Quevedo
+¿Qué inventor español creó el autogiro?|Juan de la Cierva|Isaac Peral|Manuel Jalón|Leonardo Torres Quevedo
+¿Qué inventor español popularizó la fregona moderna?|Manuel Jalón|Juan de la Cierva|Isaac Peral|Narciso Monturiol
+¿Cuál es el lago más grande de África?|Lago Victoria|Lago Tanganica|Lago Chad|Lago Malaui
+¿Cuál es el río más caudaloso del mundo?|Amazonas|Nilo|Misisipi|Yangtsé
+¿Qué estrecho separa Europa de África?|Estrecho de Gibraltar|Estrecho del Bósforo|Estrecho de Magallanes|Estrecho de Bering
+¿Qué estrecho separa Asia de América?|Estrecho de Bering|Estrecho de Gibraltar|Estrecho de Ormuz|Estrecho de Malaca
+¿Qué ciudad está dividida entre Europa y Asia por el Bósforo?|Estambul|Ankara|Atenas|Sofía
+¿Cuál es el país más pequeño del mundo?|Ciudad del Vaticano|Mónaco|San Marino|Liechtenstein
+¿Cuál es la capital de Islandia?|Reikiavik|Oslo|Helsinki|Nuuk
+¿Cuál es la capital de Turquía?|Ankara|Estambul|Esmirna|Antalya
+¿Cuál es la capital de Nueva Zelanda?|Wellington|Auckland|Christchurch|Sídney
+¿Cuál es la capital de Brasil?|Brasilia|Río de Janeiro|São Paulo|Salvador
+¿Cuál es la capital de Bolivia sede del Gobierno?|La Paz|Sucre|Santa Cruz|Cochabamba
+¿Cuál es la capital de Vietnam?|Hanói|Ho Chi Minh|Hué|Da Nang
+¿Cuál es la capital de Kenia?|Nairobi|Mombasa|Kampala|Adís Abeba
+¿Cuál es la capital de Hungría?|Budapest|Viena|Bucarest|Belgrado
+¿Cuál es la capital de Rumanía?|Bucarest|Budapest|Sofía|Chisináu
+¿En qué provincia española está la ciudad romana de Itálica?|Sevilla|Tarragona|Mérida|Zaragoza
+¿Qué ciudad española tiene un acueducto romano famoso?|Segovia|Ávila|Salamanca|Soria
+¿Qué ciudad española está rodeada por una muralla medieval completa muy famosa?|Ávila|Segovia|Toledo|Burgos
+¿En qué ciudad está la Universidad más antigua de España en funcionamiento?|Salamanca|Alcalá de Henares|Valladolid|Santiago
+¿Qué pintor surrealista nació en Figueres?|Salvador Dalí|Joan Miró|Antoni Tàpies|Ramon Casas
+¿Qué pintor valenciano es conocido como el pintor de la luz?|Joaquín Sorolla|Ignacio Zuloaga|Julio Romero de Torres|Mariano Fortuny
+¿Qué pintor cretense trabajó en Toledo?|El Greco|Tiziano|Rubens|Zurbarán
+¿Qué cuadro de El Bosco está en el Museo del Prado?|El jardín de las delicias|La última cena|El nacimiento de Venus|La ronda de noche
+¿Qué pintor holandés pintó «La ronda de noche»?|Rembrandt|Vermeer|Rubens|Van Gogh
+¿Quién pintó «La joven de la perla»?|Johannes Vermeer|Rembrandt|Frans Hals|Jan van Eyck
+¿Cuál es el sexto planeta desde el Sol?|Saturno|Júpiter|Urano|Neptuno
+¿Cuántos corazones tiene un pulpo?|Tres|Uno|Dos|Ocho
+¿Qué animal es el mamífero más grande del planeta?|La ballena azul|El cachalote|El elefante africano|El tiburón ballena
+¿Qué tipo de animal es el tiburón ballena?|Un pez|Un mamífero|Un cetáceo|Un reptil
+¿Cuál es el único mamífero que pone huevos además de los equidnas?|El ornitorrinco|El canguro|El armadillo|El koala
+¿Cuántas cámaras tiene el estómago de una vaca?|Cuatro|Dos|Tres|Uno
+¿Qué parte del ojo da color a la mirada?|El iris|La pupila|La retina|La córnea
+¿Cuál es el órgano más grande del cuerpo humano?|La piel|El hígado|El intestino|El cerebro
+¿Qué grupo sanguíneo se considera donante universal?|0 negativo|AB positivo|A positivo|B negativo
+¿Cuántos cromosomas tiene una célula humana normal?|46|23|48|44
+¿Qué selección ganó la Eurocopa de 2024?|España|Inglaterra|Francia|Italia
+¿Qué selección femenina ganó el Mundial de fútbol de 2023?|España|Inglaterra|Suecia|Estados Unidos
+¿Qué ciclista español ganó cinco Tours de Francia seguidos?|Miguel Induráin|Alberto Contador|Pedro Delgado|Carlos Sastre
+¿Qué piloto español ha sido campeón de MotoGP en 2013 y 2014?|Marc Márquez|Jorge Lorenzo|Dani Pedrosa|Álex Crivillé
+¿Qué golfista español ganó el Masters de Augusta en 1980 y 1983?|Severiano Ballesteros|José María Olazábal|Sergio García|Jon Rahm
+¿En qué deporte compite Carolina Marín?|Bádminton|Tenis|Natación|Pádel
+¿Qué nadadora española es conocida por sus medallas olímpicas en mariposa?|Mireia Belmonte|Gemma Mengual|Ona Carbonell|Ruth Beitia
+¿Qué atleta española ganó el oro olímpico en salto de altura en Río 2016?|Ruth Beitia|Ana Peleteiro|Carolina Marín|Lydia Valentín
+¿Cuántos puntos vale un triple en baloncesto?|Tres|Dos|Cuatro|Uno
+¿Cada cuántos años se celebran los Juegos Olímpicos de verano?|Cuatro|Dos|Tres|Cinco
+¿En qué ciudad se celebraron los Juegos Olímpicos de 2024?|París|Los Ángeles|Tokio|Londres
+¿Qué país organizó el Mundial de fútbol de 2022?|Catar|Rusia|Emiratos Árabes Unidos|Arabia Saudí
+¿Qué instrumento tocaba Paco de Lucía?|La guitarra|El cajón|El piano|La bandurria
+¿Qué cantaor flamenco era conocido como «Camarón de la Isla»?|José Monje Cruz|Antonio Mairena|Enrique Morente|Manolo Caracol
+¿En qué año ganó Massiel el Festival de Eurovisión?|1968|1969|1970|1965
+¿Qué canción ganó Eurovisión en 1968 para España?|La, la, la|Vivo cantando|Eres tú|Bailemos un vals
+¿Qué cantante representó a España en Eurovisión 2022 con «SloMo»?|Chanel|Blanca Paloma|Rosalía|Rigoberta Bandini
+¿En qué año se emitió por primera vez Televisión Española?|1956|1962|1950|1975
+¿Cuál es el gentilicio de los habitantes de Huelva?|Onubenses|Hueleños|Gaditanos|Ilicitanos
+¿Cuál es el gentilicio de los habitantes de Cádiz?|Gaditanos|Onubenses|Malagueños|Ilerdenses
+¿Cuál es el gentilicio de los habitantes de Lleida?|Leridanos o ilerdenses|Ilicitanos|Iliturgitanos|Tarraconenses
+¿Cuál es el gentilicio de los habitantes de Elche?|Ilicitanos|Ilerdenses|Alicantinos|Oscenses
+¿Cuál es el gentilicio de los habitantes de Huesca?|Oscenses|Onubenses|Turolenses|Ilerdenses
+¿Cuál es el gentilicio de los habitantes de Teruel?|Turolenses|Oscenses|Teruelinos|Bilbilitanos

@@ -1,0 +1,109 @@
+¿En qué año llegó el hombre a la Luna por primera vez?|1969|1965|1972|1959
+¿Quién escribió «La casa de Bernarda Alba»?|Federico García Lorca|Antonio Machado|Miguel Hernández|Rafael Alberti
+¿Cuál es la capital de Canadá?|Ottawa|Toronto|Montreal|Vancouver
+¿Cuál es la capital de Australia?|Canberra|Sídney|Melbourne|Perth
+¿Qué elemento químico tiene el símbolo «Fe»?|Hierro|Flúor|Fósforo|Francio
+¿Cuántos huesos tiene aproximadamente un adulto humano?|206|186|226|306
+¿En qué año se aprobó la actual Constitución española?|1978|1975|1982|1977
+¿Qué rey sucedió a Franco como jefe del Estado?|Juan Carlos I|Felipe VI|Alfonso XIII|Juan de Borbón
+¿Qué pintor aragonés pintó «Los fusilamientos del 3 de mayo»?|Francisco de Goya|Diego Velázquez|Bartolomé Murillo|José de Ribera
+¿Cuál es el río que pasa por Sevilla?|Guadalquivir|Guadiana|Genil|Tajo
+¿Cuál es el río que pasa por Zaragoza?|Ebro|Duero|Júcar|Segura
+¿Qué científico descubrió la penicilina?|Alexander Fleming|Louis Pasteur|Marie Curie|Robert Koch
+¿Cuál es el país de origen de la pizza margarita?|Italia|Grecia|Francia|Estados Unidos
+¿Cuántos jugadores hay en un equipo de baloncesto en pista?|Cinco|Seis|Siete|Cuatro
+¿Qué compositor alemán se quedó sordo y compuso la Novena Sinfonía?|Ludwig van Beethoven|Wolfgang Amadeus Mozart|Johann Sebastian Bach|Richard Wagner
+¿Cuál es el gas más abundante en la atmósfera terrestre?|Nitrógeno|Oxígeno|Dióxido de carbono|Argón
+¿En qué país se encuentra Machu Picchu?|Perú|Bolivia|Ecuador|Chile
+¿Cuál es la capital de Marruecos?|Rabat|Casablanca|Marrakech|Fez
+¿Qué escritor español ganó el Nobel de Literatura en 1989?|Camilo José Cela|Vicente Aleixandre|Juan Ramón Jiménez|Miguel Delibes
+¿Qué poeta escribió «Platero y yo»?|Juan Ramón Jiménez|Antonio Machado|Gustavo Adolfo Bécquer|Rosalía de Castro
+¿Quién escribió las «Rimas y leyendas»?|Gustavo Adolfo Bécquer|José de Espronceda|Rosalía de Castro|Leopoldo Alas Clarín
+¿Qué famosa batalla naval de 1805 perdió la flota franco-española?|Trafalgar|Lepanto|Las Navas de Tolosa|Bailén
+¿En qué año cayó el muro de Berlín?|1989|1991|1985|1979
+¿Cuál es el planeta más cercano al Sol?|Mercurio|Venus|Marte|La Tierra
+¿Qué órgano produce la insulina?|El páncreas|El hígado|El estómago|El bazo
+¿Cuántos lados tiene un pentágono?|Cinco|Seis|Cuatro|Ocho
+¿Cuál es la raíz cuadrada de 144?|12|14|11|16
+¿En qué ciudad se encuentra la Mezquita-Catedral más famosa de España?|Córdoba|Granada|Toledo|Sevilla
+¿Qué ciudad gallega es famosa por su catedral, final del Camino de Santiago?|Santiago de Compostela|Ourense|Pontevedra|Ferrol
+¿Cuál es el idioma con más hablantes nativos del mundo?|Chino mandarín|Inglés|Español|Hindi
+¿Quién dirigió la película «Todo sobre mi madre»?|Pedro Almodóvar|Alejandro Amenábar|Luis Buñuel|Fernando Trueba
+¿Qué director español dirigió «Mar adentro»?|Alejandro Amenábar|Pedro Almodóvar|Juan Antonio Bayona|Icíar Bollaín
+¿Qué tenista español ganó Wimbledon en 2023 y 2024?|Carlos Alcaraz|Rafael Nadal|Pablo Carreño|Roberto Bautista
+¿En qué ciudad se celebraron los Juegos Olímpicos de 1992?|Barcelona|Madrid|Sevilla|Atlanta
+¿Cuál era la mascota de los Juegos Olímpicos de Barcelona 92?|Cobi|Naranjito|Curro|Petra
+¿Cuál fue la mascota del Mundial de fútbol de España 1982?|Naranjito|Cobi|Curro|Pelusín
+¿Cuál fue la mascota de la Expo de Sevilla 92?|Curro|Cobi|Naranjito|Fluvi
+¿Qué sustancia da color verde a las plantas?|La clorofila|La melanina|La hemoglobina|El caroteno
+¿Cuál es la velocidad aproximada de la luz en el vacío?|300.000 km/s|30.000 km/s|3.000 km/s|3.000.000 km/s
+¿Qué país tiene más habitantes del mundo según la ONU desde 2023?|India|China|Estados Unidos|Indonesia
+¿Qué océano baña la costa de Galicia?|Atlántico|Mediterráneo|Índico|Pacífico
+¿Qué mar baña Santander?|Cantábrico|Mediterráneo|Báltico|Mar de Alborán
+¿Cuál es la capital de Aragón?|Zaragoza|Huesca|Teruel|Logroño
+¿Cuál es la capital de Asturias?|Oviedo|Gijón|Avilés|León
+¿Cuál es la capital de Extremadura?|Mérida|Badajoz|Cáceres|Plasencia
+¿Cuál es la capital de Castilla-La Mancha?|Toledo|Albacete|Ciudad Real|Cuenca
+¿Qué ciudad es la capital de La Rioja?|Logroño|Haro|Calahorra|Nájera
+¿Cuál es la capital de Navarra?|Pamplona|Tudela|Estella|Olite
+¿Quién fue el primer presidente del Gobierno de la democracia española tras 1977?|Adolfo Suárez|Felipe González|Leopoldo Calvo-Sotelo|José María Aznar
+¿Qué famoso arquitecto diseñó el Museo Guggenheim de Bilbao?|Frank Gehry|Santiago Calatrava|Norman Foster|Rafael Moneo
+¿Qué arquitecto valenciano diseñó la Ciudad de las Artes y las Ciencias?|Santiago Calatrava|Ricardo Bofill|Rafael Moneo|Antoni Gaudí
+¿Cuántos jugadores tiene un equipo de balonmano en pista?|Siete|Seis|Cinco|Once
+¿Qué es un sustantivo?|Una palabra que nombra seres u objetos|Una palabra que indica acción|Una palabra que une oraciones|Un signo de puntuación
+¿Cuántas sílabas tiene la palabra «mariposa»?|Cuatro|Tres|Cinco|Dos
+¿Cuál es el plural de «el lápiz»?|Los lápices|Los lápizes|Los lápiz|Las lápices
+¿Qué animal es una cría de vaca?|El ternero|El potro|El cordero|El lechón
+¿Cómo se llama la cría del caballo?|El potro|El ternero|El cabrito|El pollino
+¿Qué famoso pintor se cortó parte de una oreja?|Vincent van Gogh|Claude Monet|Paul Cézanne|Pablo Picasso
+¿Quién pintó «La Gioconda»?|Leonardo da Vinci|Miguel Ángel|Rafael|Botticelli
+¿Qué escultor renacentista hizo el «David» de Florencia?|Miguel Ángel|Donatello|Bernini|Rodin
+¿En qué ciudad están los canales y las góndolas?|Venecia|Ámsterdam|Brujas|Florencia
+¿Cuál es el país de origen del flamenco?|España|Portugal|México|Argentina
+¿Qué baile es típico de Argentina?|El tango|La salsa|La cumbia|El merengue
+¿Qué grupo británico cantó «Yesterday»?|The Beatles|The Rolling Stones|Queen|The Who
+¿Quién cantó «Bohemian Rhapsody» con Queen?|Freddie Mercury|David Bowie|Elton John|Mick Jagger
+¿Qué cantante es conocido como el Rey del Pop?|Michael Jackson|Elvis Presley|Prince|Stevie Wonder
+¿Qué cantante es conocido como el Rey del Rock and Roll?|Elvis Presley|Chuck Berry|Little Richard|Johnny Cash
+¿Qué cantante español grabó «Me olvidé de vivir»?|Julio Iglesias|Raphael|Camilo Sesto|Nino Bravo
+¿Qué artista cantó «Mi gran noche»?|Raphael|Julio Iglesias|Camilo Sesto|Miguel Bosé
+¿Cuántos años son un lustro?|Cinco|Diez|Cuatro|Veinte
+¿Cuántos años son una década?|Diez|Cinco|Cien|Veinte
+¿Qué número es primo?|17|21|27|15
+¿Cuál es el 20 % de 150?|30|20|15|35
+¿Cuántos gramos tiene un kilogramo?|1.000|100|10.000|500
+¿Qué sistema operativo para móviles desarrolla Google?|Android|iOS|Windows Phone|Symbian
+¿Qué empresa fabrica el iPhone?|Apple|Samsung|Xiaomi|Huawei
+¿Qué red social se conoce por su pájaro azul hasta que pasó a llamarse X?|Twitter|Facebook|Instagram|TikTok
+¿Qué significan las siglas «ONU»?|Organización de las Naciones Unidas|Oficina de Naciones Unidas|Organización de Naciones Universales|Orden de Naciones Unidas
+¿Cuál es la ciudad más poblada de Estados Unidos?|Nueva York|Los Ángeles|Chicago|Houston
+¿Cuál es la capital de Estados Unidos?|Washington D. C.|Nueva York|Los Ángeles|Filadelfia
+¿Cuál es la capital de Rusia?|Moscú|San Petersburgo|Kiev|Minsk
+¿Cuál es la capital de Grecia?|Atenas|Esparta|Salónica|Corinto
+¿Cuál es la capital de Argentina?|Buenos Aires|Córdoba|Rosario|Montevideo
+¿Cuál es la capital de México?|Ciudad de México|Guadalajara|Monterrey|Cancún
+¿Cuál es la capital de Chile?|Santiago|Valparaíso|Concepción|Lima
+¿Cuál es la capital de Colombia?|Bogotá|Medellín|Cali|Cartagena de Indias
+¿Cuál es la capital de Perú?|Lima|Cuzco|Arequipa|Quito
+¿Cuál es la capital de Bélgica?|Bruselas|Amberes|Brujas|Gante
+¿Cuál es la capital de Suiza?|Berna|Zúrich|Ginebra|Basilea
+¿Cuál es la capital de Noruega?|Oslo|Estocolmo|Helsinki|Bergen
+¿Cuál es la capital de Suecia?|Estocolmo|Oslo|Copenhague|Gotemburgo
+¿Cuál es la capital de Polonia?|Varsovia|Cracovia|Gdansk|Praga
+¿Cuál es la capital de Egipto?|El Cairo|Alejandría|Luxor|Giza
+¿Cuál es la capital de China?|Pekín|Shanghái|Hong Kong|Cantón
+¿Qué país tiene como capital Lisboa y como moneda el euro?|Portugal|España|Brasil|Angola
+¿Qué famoso caballero andante tenía un escudero llamado Sancho Panza?|Don Quijote|El Cid|Amadís de Gaula|Lazarillo
+¿Cómo se llamaba el caballo de Don Quijote?|Rocinante|Babieca|Bucéfalo|Clavileño
+¿Cómo se llamaba el caballo del Cid Campeador?|Babieca|Rocinante|Bucéfalo|Marengo
+¿Qué novela picaresca anónima tiene como protagonista a un niño de Tormes?|El Lazarillo de Tormes|El Buscón|Guzmán de Alfarache|La Celestina
+¿En qué siglo vivió Miguel de Cervantes?|XVI-XVII|XV|XVIII|XIX
+¿Qué famosa dinastía real gobierna actualmente en España?|Borbón|Habsburgo|Trastámara|Saboya
+¿Quiénes fueron los Reyes Católicos?|Isabel I de Castilla y Fernando II de Aragón|Felipe II y María Tudor|Carlos I e Isabel de Portugal|Juana I y Felipe el Hermoso
+¿En qué año terminó la Reconquista con la toma de Granada?|1492|1512|1453|1479
+¿Qué isla balear es la más grande?|Mallorca|Menorca|Ibiza|Formentera
+¿Qué isla canaria es la más grande?|Tenerife|Gran Canaria|Fuerteventura|Lanzarote
+¿Cuántas islas principales forman las Canarias?|Ocho|Siete|Seis|Nueve
+¿Qué ciudades autónomas españolas están en el norte de África?|Ceuta y Melilla|Tánger y Ceuta|Melilla y Orán|Ceuta y Tetuán
+¿Qué cordillera separa España de Francia?|Los Pirineos|Los Alpes|Sierra Nevada|El Sistema Central
+¿Dónde está el parque nacional de Doñana?|Andalucía|Extremadura|Murcia|Castilla-La Mancha
