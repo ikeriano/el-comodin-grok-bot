@@ -1,0 +1,73 @@
+@font-face{font-family:Jost;src:url(fonts/Jost.ttf);font-weight:100 900}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent;user-select:none}
+html,body{margin:0;height:100%;background:#000;overflow:hidden;font-family:Jost,sans-serif;color:#fff}
+#gl{position:fixed;inset:0;width:100%;height:100%}
+#stage{position:absolute;left:50%;top:50%;width:1280px;height:720px;transform-origin:0 0}
+#rot{display:none;position:fixed;inset:0;z-index:99;background:#0b0c2a;align-items:center;justify-content:center;font-size:22px}
+@media (orientation:portrait){#rot{display:flex}}
+.oculto{display:none!important}
+.pant{position:absolute;inset:0}
+.tile{background:linear-gradient(#2742b8,#13227a 55%,#0d1860);border:3px solid #f2b233;border-radius:7px;font-weight:800;color:#fff;text-align:center;box-shadow:0 0 0 1px #6b4a00,0 3px 8px rgba(0,0,0,.5);letter-spacing:.5px}
+.tile.big{font-size:44px;padding:4px 26px;border-width:5px;border-radius:10px;color:#ffe9a8}
+/* menú (familia Ahora Caigo) */
+#menu{background:radial-gradient(ellipse at 30% 50%,rgba(40,20,90,.35),rgba(5,5,30,.75))}
+#mlogo{position:absolute;left:70px;top:190px;width:470px;text-align:center}
+#mlogo .lt{font-size:46px;font-weight:900;color:#ffe9a8;text-shadow:0 3px 0 #6b3a00}
+#mlogo .tile.big{font-size:84px;padding:6px 26px}
+#mlogo .lt2{font-size:40px;font-weight:800;margin-top:6px;color:#fff;text-shadow:0 3px 8px #000}
+#mlogo .sub{display:inline-block;margin-top:16px;padding:6px 26px;border:3px solid #f2b233;border-radius:12px;background:#1a1240;font-weight:800;letter-spacing:3px}
+#mbotones{position:absolute;right:70px;top:130px;width:560px;display:flex;flex-direction:column;gap:22px}
+.pill{position:relative;display:block;text-align:left;padding:14px 22px 14px 112px;min-height:120px;border-radius:26px;border:4px solid #e9d8ff;background:linear-gradient(#5b33c8,#3a1d8e);color:#fff;font-family:inherit;box-shadow:0 6px 0 rgba(0,0,0,.35)}
+.pill.dorado{background:linear-gradient(#ffcf4a,#e2930c);border-color:#fff3c2;color:#1a1000}
+.pill b{display:block;font-size:40px;font-weight:800}.pill small{display:block;font-size:19px;font-weight:600;opacity:.9}
+.pill .ico{position:absolute;left:22px;top:50%;transform:translateY(-50%);width:72px;height:72px;border-radius:50%;background:#1a1240;border:4px solid #f2b233;display:flex;align-items:center;justify-content:center;font-size:30px;color:#ffd36b}
+.pill:active{transform:translateY(3px)}
+#ver{position:absolute;left:14px;bottom:10px;font-size:16px;opacity:.7}
+.marco{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:760px;max-height:690px;overflow:auto;background:rgba(10,14,60,.93);border:4px solid #f2b233;border-radius:20px;padding:22px 34px;box-shadow:0 0 40px rgba(0,0,0,.7)}
+.marco h2{margin:0 0 14px;text-align:center;font-size:34px;color:#ffd36b}
+.marco label{display:flex;justify-content:space-between;align-items:center;font-size:22px;margin:10px 0;gap:14px}
+.marco input[type=range]{width:360px}.marco select,.marco input[type=text]{font:inherit;font-size:20px;padding:6px 10px;border-radius:8px;border:2px solid #f2b233;background:#101a5a;color:#fff;max-width:440px}
+.ayuda{max-height:250px;overflow:auto;font-size:17px;line-height:1.4;background:rgba(255,255,255,.06);padding:12px 16px;border-radius:12px;margin-top:10px}
+.fila{display:flex;justify-content:center;gap:18px;margin-top:16px;flex-wrap:wrap}
+.btn{font:inherit;font-size:24px;font-weight:800;padding:12px 30px;border-radius:14px;border:3px solid #fff3c2;background:linear-gradient(#ffcf4a,#e2930c);color:#1a1000;min-width:180px}
+.btn.gris{background:linear-gradient(#5a5f7a,#33364d);color:#fff;border-color:#aab}
+.btn:active{transform:translateY(2px)}
+#sjug .jug{display:flex;gap:12px;align-items:center;margin:8px 0;font-size:21px}
+#sjug .jug input{width:210px;flex:none}#setup .marco{width:900px}#sjug .jug{white-space:nowrap}
+/* HUD de juego, como en la tele */
+#topt{position:absolute;top:10px;left:50%;transform:translateX(-50%);display:flex;gap:40px}
+#topt .tile{font-size:34px;min-width:250px;padding:2px 20px}
+#topt .euro{background:linear-gradient(#2742b8,#13227a 55%,#0d1860)}
+#coms{position:absolute;left:48px;top:236px;display:flex;flex-direction:column;gap:7px}
+#coms .tile{width:126px;height:41px;line-height:35px;font-size:21px;transition:opacity .4s,transform .4s}
+#coms .tile.fuera{opacity:0;transform:translateX(-40px)}
+#esc{position:absolute;right:40px;top:236px;display:flex;flex-direction:column;gap:7px}
+#esc div{width:126px;height:41px;line-height:37px;text-align:right;padding-right:12px;font-size:21px;font-weight:800;border-radius:7px;background:linear-gradient(#4a4a4a,#2c2c2c);border:2px solid #555;color:#fff;transition:all .4s}
+#esc div.act{background:linear-gradient(#2742b8,#13227a);border:3px solid #f2b233;box-shadow:0 0 14px rgba(242,178,51,.7)}
+#panel{position:absolute;left:190px;right:190px;bottom:16px;height:224px}
+#tmr{position:absolute;right:16px;top:-30px;width:70px;height:30px;line-height:31px;text-align:center;background:linear-gradient(#e8322d,#b0141a);border-radius:6px 6px 0 0;font-size:24px;font-weight:800}
+#tmr.poco{animation:lat .5s infinite alternate}@keyframes lat{to{background:#ff6a3a}}
+#pq{display:flex;height:92px;background:linear-gradient(#1f3a9a,#0e1e66);border:2px solid #4a6ad8;border-radius:8px 8px 0 0}
+#pnum{width:62px;text-align:center;border-right:2px solid #4a6ad8;padding-top:10px;background:linear-gradient(#2b4ab8,#14286f)}
+#pnum b{font-size:26px;display:block}#pnum hr{border:0;border-top:2px solid #9ab;margin:2px 12px}#pnum small{font-size:22px;font-weight:700;opacity:.85}
+#ptxt{flex:1;display:flex;align-items:center;justify-content:center;text-align:center;font-size:25px;font-weight:600;padding:4px 16px;line-height:1.18}
+#pres{display:grid;grid-template-columns:1fr 1fr;gap:3px;margin-top:3px}
+.op{display:flex;align-items:center;height:62px;background:linear-gradient(#1a3189,#0c1a5a);border:2px solid #4a6ad8;font:inherit;color:#fff;font-size:24px;font-weight:500;text-align:left;padding:0}
+.op i{font-style:normal;font-weight:800;width:44px;text-align:center;font-size:26px;border-right:2px solid #4a6ad8;height:100%;display:flex;align-items:center;justify-content:center;margin-right:12px}
+.op.elim{opacity:.18}.op.sel{background:linear-gradient(#ffcf4a,#e2930c);color:#1a1000}.op.ok{background:linear-gradient(#3ccf5a,#168a2c);color:#fff}.op.mal{background:linear-gradient(#ef4a3a,#a01818)}
+.op.sug{box-shadow:inset 0 0 0 4px #ffd36b}
+#ayudas{position:absolute;right:30px;top:20px;display:flex;gap:10px}
+#ayudas button{font:inherit;font-weight:800;color:#fff;border-radius:16px;border:3px solid #f2b233;background:rgba(10,14,60,.85);padding:6px 12px;font-size:16px;min-width:116px;height:96px}
+#bpuls span{display:block;width:44px;height:44px;margin:0 auto 4px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#fff2b0,#f2b233 45%,#8a5a00)}
+#ayudas button:disabled{opacity:.35}
+#bocad{position:absolute;left:50%;top:92px;transform:translateX(-50%);max-width:820px;background:#fff;color:#111;border-radius:14px;padding:8px 18px 10px;font-size:22px;font-weight:600;box-shadow:0 4px 14px rgba(0,0,0,.5)}
+#bocad i{display:block;font-style:normal;font-size:13px;color:#c07a00;font-weight:800;letter-spacing:1px}
+#bonus{position:absolute;left:190px;right:190px;bottom:16px;height:300px;background:linear-gradient(#1f3a9a,#0e1e66);border:3px solid #f2b233;border-radius:12px;text-align:center;padding:10px}
+#bonus .bt{font-size:28px;font-weight:900;color:#ffd36b}
+#bq{font-size:28px;font-weight:600;min-height:84px;display:flex;align-items:center;justify-content:center}
+#bops{display:flex;gap:20px;justify-content:center}#bops .op{width:360px;justify-content:center}
+#binfo{font-size:24px;margin-top:12px;font-weight:700}
+#dlg .marco{width:700px;text-align:center}#dlg p{font-size:22px;line-height:1.35;white-space:pre-line}
+#bpausa{position:absolute;left:12px;top:12px;width:52px;height:52px;border-radius:50%;border:3px solid #f2b233;background:rgba(10,14,60,.85);color:#fff;font-weight:900;font-size:20px}
+#pausa{position:absolute;inset:0;background:rgba(0,0,0,.6);z-index:20}
+.res td{padding:4px 14px;font-size:22px}

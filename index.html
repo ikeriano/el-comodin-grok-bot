@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<title>El Comodín de La 1 · juego de fans</title>
+<link rel="stylesheet" href="app.css">
+</head><body>
+<canvas id="gl"></canvas>
+<div id="rot"><div>Gira el móvil para jugar en horizontal ↻</div></div>
+<div id="stage">
+ <section id="menu" class="pant">
+  <div id="mlogo"><div class="lt">EL</div><div class="tile big">COMODÍN</div><div class="lt2">de La 1</div><div class="sub">EL JUEGO</div></div>
+  <div id="mbotones">
+   <button class="pill dorado" data-acc="jugar"><span class="ico">▶</span><b>Jugar</b><small>Partida en solitario: 10 preguntas, 7 comodines y la escalera de premios</small></button>
+   <button class="pill" data-acc="programa"><span class="ico">👥</span><b>Programa</b><small>Programa completo: dos concursantes, presentación y resultados</small></button>
+   <button class="pill" data-acc="opciones"><span class="ico">⚙</span><b>Opciones</b><small>Sonido, voz, escalera de aniversario, gráficos y cómo se juega</small></button>
+  </div>
+  <div id="ver">v1.0 · juego de fans no oficial</div>
+ </section>
+
+ <section id="setup" class="pant oculto"><div class="marco">
+  <h2 id="stit">¿QUIÉN VA A JUGAR?</h2>
+  <div id="sjug"></div>
+  <label class="fila2">Comodín bonus: <select id="sbonus"><option value="sim">Lo juega el acompañante (simulado)</option><option value="yo">Lo juego yo</option></select></label>
+  <div class="fila"><button class="btn gris" data-acc="volver">VOLVER</button><button class="btn" data-acc="empezar">¡A JUGAR!</button></div>
+ </div></section>
+
+ <section id="opciones" class="pant oculto"><div class="marco">
+  <h2>OPCIONES</h2>
+  <label>Música <input type="range" min="0" max="100" id="omus"></label>
+  <label>Sonidos <input type="range" min="0" max="100" id="osfx"></label>
+  <label>Voz del presentador <input type="range" min="0" max="100" id="ovoz"></label>
+  <label>Escalera <select id="oesc"><option value="normal">Normal (hasta 30.000 €)</option><option value="aniv">Aniversario (hasta 60.000 €)</option></select></label>
+  <label>Gráficos <select id="ocal"><option value="baja">Baja (móviles sencillos)</option><option value="media">Media</option><option value="alta">Alta</option></select></label>
+  <div class="ayuda"><b>CÓMO SE JUEGA</b><br>
+  10 preguntas con 4 respuestas. Tienes 30 s (preguntas 1–5), 40 s (6–8) y 50 s (9–10). Cada acierto te sube un escalón.
+  Si fallas o se acaba el tiempo pierdes 3 comodines; si ya no te quedan, bajas 3 escalones.
+  Con el <b>pulsador</b> gastas de 1 a 3 comodines por pregunta: cada uno elimina una respuesta incorrecta y suma 15 s.
+  El <b>super comodín</b> (una vez, hasta la pregunta 7) hace que tu acompañante te ayude y suma 15 s.
+  Tras la pregunta 6 llega el <b>comodín bonus</b>: 90 s de preguntas de dos opciones; cada 5 aciertos, 1 comodín más (máximo 7).
+  Antes de la pregunta 10 puedes plantarte con el premio de un escalón menos o jugártela.<br><br>
+  <b>SOBRE EL JUEGO</b><br>Juego de fans, sin ánimo de lucro, inspirado en el concurso de La 1 (2022–2023, adaptación del formato turco «Joker»), presentado por Aitor Albizua con la voz en off de Esti Gabilondo.
+  Aquí el presentador es un personaje inventado y su voz es sintética (Piper). No contiene fotos, voces ni logotipos oficiales.</div>
+  <div class="fila"><button class="btn" data-acc="volver">VOLVER</button></div>
+ </div></section>
+
+ <section id="juego" class="pant oculto">
+  <div id="topt"><div class="tile big" id="tcom">COMODÍN</div><div class="tile big euro" id="teur">0 €</div></div>
+  <div id="coms"></div>
+  <div id="esc"></div>
+  <div id="bocad" class="oculto"><i>PRESENTADOR</i><span></span></div>
+  <div id="panel" class="oculto">
+   <div id="tmr">30</div>
+   <div id="pq"><div id="pnum"><b>1</b><hr><small>10</small></div><div id="ptxt"></div></div>
+   <div id="pres"></div>
+  </div>
+  <div id="ayudas" class="oculto"><button id="bpuls" data-acc="pulsador"><span></span>PULSADOR</button><button id="bsuper" data-acc="super">SUPER<br>COMODÍN</button></div>
+  <div id="bonus" class="oculto"><div class="bt">COMODÍN BONUS</div><div id="bq"></div><div id="bops"></div><div id="binfo"></div></div>
+  <div id="dlg" class="oculto"><div class="marco"><h2></h2><p></p><div class="fila"></div></div></div>
+  <button id="bpausa" data-acc="pausa">II</button>
+ </section>
+ <div id="pausa" class="oculto"><div class="marco"><h2>PAUSA</h2><div class="fila"><button class="btn" data-acc="seguir">SEGUIR</button><button class="btn gris" data-acc="salir">SALIR AL MENÚ</button></div></div></div>
+</div>
+<script type="module" src="js/main.js"></script>
+</body></html>
