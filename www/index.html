@@ -29,6 +29,7 @@
   <label>Música <input type="range" min="0" max="100" id="omus"></label>
   <label>Sonidos <input type="range" min="0" max="100" id="osfx"></label>
   <label>Voz del presentador <input type="range" min="0" max="100" id="ovoz"></label>
+  <label class="maFila">🎤 Mis audios (pon tus propios audios al presentador) <button type="button" class="btn maBoton" onclick="event.preventDefault();window.MisAudios&&MisAudios.panel()">Abrir</button></label>
   <label>Escalera <select id="oesc"><option value="normal">Normal (hasta 30.000 €)</option><option value="aniv">Aniversario (hasta 60.000 €)</option></select></label>
   <label>Gráficos <select id="ocal"><option value="baja">Baja (móviles sencillos)</option><option value="media">Media</option><option value="alta">Alta</option></select></label>
   <div class="ayuda"><b>CÓMO SE JUEGA</b><br>
@@ -60,5 +61,7 @@
  </section>
  <div id="pausa" class="oculto"><div class="marco"><h2>PAUSA</h2><div class="fila"><button class="btn" data-acc="seguir">SEGUIR</button><button class="btn gris" data-acc="salir">SALIR AL MENÚ</button></div></div></div>
 </div>
+<script src="js/misaudios_cfg.js"></script>
+<script src="js/misaudios.js"></script>
 <script type="module" src="js/main.js"></script>
 </body></html>

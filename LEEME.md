@@ -1,4 +1,4 @@
-# El Comodín de La 1 · juego de fans (versión 1.0)
+# El Comodín de La 1 · juego de fans (versión 1.1)
 
 Juego de preguntas para Android inspirado en el concurso de La 1 (2022–2023, adaptación del formato turco «Joker»). Juego de fans, no oficial y sin ánimo de lucro.
 Hecho como las otras apps de Iker: envoltorio WebView + HTML/JS con un plató 3D ligero en three.js (0.170).

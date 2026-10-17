@@ -24,6 +24,7 @@ function musica(on){const a=ac();if(!a)return;if(!musG){musG=a.createGain();musG
  if(!on)musOn=false;}
 let habla=Promise.resolve();
 function di(clave,texto){$('#bocad span').textContent=texto;$('#bocad').classList.remove('oculto');
+ if(AJ.voz&&clave&&window.MisAudios){const ma=MisAudios.evento(clave,'pres');if(ma){voz.pause();return Promise.race([ma.done,new Promise(r=>setTimeout(r,ma.ms+2500))])}}
  return new Promise(res=>{if(!AJ.voz||!clave){setTimeout(res,Math.min(3200,900+texto.length*45));return;}
   voz.src='voz/'+clave+'.mp3';voz.volume=AJ.voz/100;let done=false;const fin=()=>{if(!done){done=true;res();}};voz.onended=fin;voz.onerror=()=>setTimeout(fin,1200);voz.play().catch(()=>setTimeout(fin,1500));setTimeout(fin,9000);});}
 const calla=()=>$('#bocad').classList.add('oculto');
